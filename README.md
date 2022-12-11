@@ -5,6 +5,5 @@
 First activate the virtual environemment : Scripts\activate
 
 Second : 
-cd src
-python server.py
-s
+cd src && python server.py
+
