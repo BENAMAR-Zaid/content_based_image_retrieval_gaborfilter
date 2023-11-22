@@ -25,8 +25,8 @@
 <hr>
 
 ### 🕵️ Search engine Page
-![1](https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/1e1cca11-1b38-440f-ae3e-ee9323bc2890)
-![2](https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/ffe589f2-bb66-41cc-9960-c63e4dceeebc)
+![Flask1](https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/7a4ee630-f695-4ef4-850e-f2061f2122f6)
+![Falsk2](https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/86999f15-3e62-40c3-9737-922b50077e2a)
 
 
 
@@ -44,7 +44,7 @@ In our way to develope and build the content-based image retrieval system, we've
 #### 1- We choosed the gabor filters as the texture feature extraction method to  represent the semantic content of an image.
 <div align="center">
   <a href="">
-    <img src="https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/4b0fd4a1-2a9b-4c05-abd9-9dc5c74508a6" alt="Banner" width="720">
+    <img src="https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/ff332fb7-2e5e-4782-a254-45eadbe94d8e" alt="Banner" width="720">
   </a>
 </div>
 
@@ -71,7 +71,7 @@ In our way to develope and build the content-based image retrieval system, we've
     
 <div align="center">
   <a href="">
-    <img src="https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/a5379dba-a4f3-4bee-b0b0-7984c2b091e2" alt="Banner" width="720">
+    <img src="https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/1919bff6-5883-4f1b-b596-ab9508d92a16" alt="Banner" width="720">
   </a>
 </div>
 
@@ -79,7 +79,7 @@ In our way to develope and build the content-based image retrieval system, we've
 
 <div align="center">
   <a href="">
-    <img src="https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/30499895-c5da-4285-9a7a-d2b19c912974" alt="Banner" width="720">
+    <img src="https://github.com/BENAMAR-Zaid/content_based_image_retrieval_gaborfilter/assets/105943885/3964df60-8c05-4680-aa89-ccb364e08560" alt="Banner" width="720">
   </a>
 </div>
 
