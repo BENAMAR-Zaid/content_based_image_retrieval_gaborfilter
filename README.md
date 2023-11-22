@@ -20,9 +20,8 @@
 
 1. [ Project Overview ](#introduction)
 2. [ Project Architecture ](#arch)
-3. [ Data Cleaning and Model Building](#dataedamodel)
-4. [ Installation ](#installation)
-5. [ Contact ](#contact)
+3. [ Installation ](#installation)
+4. [ Contact ](#contact)
 <hr>
 
 ### 🕵️ Search engine Page
